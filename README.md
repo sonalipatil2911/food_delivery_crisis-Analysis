@@ -1,6 +1,6 @@
 <h1>🚀 QuickBite Express – Food Delivery Crisis Recovery Project</h1>
-<hr><center>
-<img src = "food_delivery.jpeg"></img></center>
+<hr>
+<img src = "food_delivery.jpeg"></img>
 
 
 🧠 Project Overview
